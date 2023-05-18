@@ -1,6 +1,8 @@
 # ATM_Service_Simulator
 
-Created by: Leo Martinez III in Spring 2023
+Author: Leo Martinez III
+Contact: leo.martinez@students.tamuk.edu
+Created: Spring 2023
 
 Package: ATM-Utilities
 Program was written in Java and tested in Eclipse IDE Version: 2022-12 (4.26.0)
