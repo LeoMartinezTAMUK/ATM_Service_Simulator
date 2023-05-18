@@ -19,10 +19,10 @@ An ATM (Automated Teller Machine) system in Java can provide a convenient, acces
 The program consists of 3 main files:
 
 
-| atm.java - abstract class for handling private variables.
+atm.java - abstract class for handling private variables.
 
 
-| atmFunc.java - utilitly class for handling the functionality of the ATM.
+atmFunc.java - utilitly class for handling the functionality of the ATM.
 
 
-| Test.java - testing class utilized for running our programs contained within the package.
+Test.java - testing class utilized for running our programs contained within the package.
